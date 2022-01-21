@@ -1,4 +1,4 @@
-package lab12.part_a.activity;
+package lab14.part_a.activity;
 
 public class Activity02_FixThisLoop {
     public static void main(String[] args) {

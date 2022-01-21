@@ -1,4 +1,4 @@
-package lab12.part_a.examples;
+package lab14.part_a.examples;
 
 public class Example02_LoopPrint {
     public static void main(String[] args) {
